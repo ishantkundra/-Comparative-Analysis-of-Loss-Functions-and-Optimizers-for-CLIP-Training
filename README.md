@@ -15,8 +15,6 @@ Developed by **Ishant Kundra** and **Rahul Ravi Kadam**
 > 🗓️ Date: Dec 10, 2024  
 > 📄 View Certificate: [Hornoral-2.pdf](./Hornoral-2.pdf)
 
-![Certificate](./Screenshots/Screenshot_2025-03-27_at_7.57.43_PM.png)
-
 ---
 
 ## 🚀 Project Overview
