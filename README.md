@@ -115,3 +115,9 @@ class DynamicTemperatureScalingLoss(nn.Module):
         scaled_sim_matrix = sim_matrix / self.tau
         labels = torch.arange(sim_matrix.size(0)).to(image_features.device)
         return F.cross_entropy(scaled_sim_matrix, labels)
+
+## 👨‍💻 Author
+
+**Ishant Kundra**  
+M.S. Computer Science, Texas A&M University  
+📬 ishantkundra9@gmail.com
