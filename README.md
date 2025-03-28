@@ -13,7 +13,7 @@ Developed by **Ishant Kundra** and **Rahul Ravi Kadam**
 
 > 🎖️ **Award**: Honorable Mention at CLIP Training Competition – Fall’24 DL Course  
 > 🗓️ Date: Dec 10, 2024  
-> 📄 View Certificate: [Honorral-2.pdf](./Honorral-2.pdf)
+> 📄 View Certificate: [Honorral-2.pdf](./Honoral-2.pdf)
 
 ![Certificate](./Screenshots/Screenshot_2025-03-27_at_7.57.43_PM.png)
 
