@@ -45,7 +45,7 @@ Developed by **Ishant Kundra** and **Rahul Ravi Kadam**
 │   └── job_output_run.slurm.12166717
 │
 ├── Novel_Model-Dynamic_temp_scaling_loss_RAdam.zip   # 🔥 Our proposed loss implementation
-├── bimodal_exps.zip                                  # Additional bimodal training experiments
+├── bimodal_exps.zip                                  # Code files
 ├── Report/
 │   └── Project_Report.pdf                            # 📄 Final detailed PDF report
 ├── Honorral-2.pdf                                    # 🏆 Award certificate
@@ -122,4 +122,5 @@ M.S. Computer Science, Texas A&M University
 📬 ishantkundra9@gmail.com
 
 **Rahul Ravi Kadam**  
-📍 Texas A&M University
+M.S. Computer Engineering, Texas A&M University  
+📬 rahulravi.kadam@gmail.com
