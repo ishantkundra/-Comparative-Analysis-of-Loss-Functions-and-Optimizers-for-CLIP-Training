@@ -122,3 +122,6 @@ class DynamicTemperatureScalingLoss(nn.Module):
 **Ishant Kundra**  
 M.S. Computer Science, Texas A&M University  
 📬 ishantkundra9@gmail.com
+
+**Rahul Ravi Kadam**  
+📍 Texas A&M University
