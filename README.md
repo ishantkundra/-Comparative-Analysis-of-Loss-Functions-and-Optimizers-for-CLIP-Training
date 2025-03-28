@@ -49,8 +49,6 @@ Developed by **Ishant Kundra** and **Rahul Ravi Kadam**
 ├── Report/
 │   └── Project_Report.pdf                            # 📄 Final detailed PDF report
 ├── Honorral-2.pdf                                    # 🏆 Award certificate
-├── Screenshots/
-│   └── Screenshot_*.png                              # Repo preview images
 ├── .gitattributes
 ├── .gitignore
 └── README.md                                         # ← You're here!
