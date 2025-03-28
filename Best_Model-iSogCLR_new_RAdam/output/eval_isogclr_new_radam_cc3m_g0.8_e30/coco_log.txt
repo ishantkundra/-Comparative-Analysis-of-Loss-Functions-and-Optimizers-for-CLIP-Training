@@ -1,0 +1,2 @@
+{"val_txt_r1": 14.86, "val_txt_r5": 35.36, "val_txt_r10": 47.08, "val_txt_r_mean": 32.43333333333333, "val_img_r1": 11.231956495661562, "val_img_r5": 28.24183294014155, "val_img_r10": 39.13791035227318, "val_img_r_mean": 26.203899929358766, "val_r_mean": 29.318616631346046, "epoch": 0, "data": "coco"}
+best epoch: 0

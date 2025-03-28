@@ -1,0 +1,1 @@
+{"zeroshot_top1": 27.036, "zeroshot_top3": 40.654, "zeroshot_top5": 46.59, "zeroshot_top10": 54.052}
